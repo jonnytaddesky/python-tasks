@@ -1,4 +1,4 @@
-a = int(input()) 
+a = int(input())
 b = int(input())
 c = int(input())
 
@@ -81,3 +81,7 @@ elif b == c and (a > b or a > c):
     max = a
     min = b
     mid = c
+    print(max)
+    print(min)
+    print(mid)
+
