@@ -15,6 +15,7 @@ elif figure == 'прямоугольник':
 
     s = a * b
     print(s)
+    
 elif figure == 'круг':
     radius = int(input())
     s = 3.14 * radius ** 2
